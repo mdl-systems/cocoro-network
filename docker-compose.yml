@@ -1,0 +1,7 @@
+networks:
+  cocoro-net:
+    driver: bridge
+    name: cocoro-net
+    ipam:
+      config:
+        - subnet: 172.30.0.0/24
