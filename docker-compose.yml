@@ -1,3 +1,8 @@
+services:
+  network-init:
+    image: hello-world
+    network_mode: none
+
 networks:
   cocoro-net:
     driver: bridge

@@ -1,0 +1,12 @@
+# PDFs and office documents
+*.pdf
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.pptx
+*.ppt
+
+# OS files
+.DS_Store
+Thumbs.db
