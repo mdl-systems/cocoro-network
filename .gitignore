@@ -7,6 +7,14 @@
 *.pptx
 *.ppt
 
+# Media files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+
 # OS files
 .DS_Store
 Thumbs.db
